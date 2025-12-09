@@ -20,7 +20,7 @@ The executable is located within the Main folder
 
 # Customization
 
-Modify the Main.cpp program, particularly the content of the while loop, according to the requirements of the control task. 
+Modify the Main.cpp program, particularly the content of the while loop, according to the requirements of the control task. Make sure to recompile with make every time the source code is modified.
 
 
 # Data logs
